@@ -41,6 +41,7 @@ Key topics include classification, feature engineering, ensemble methods, dimens
   * Standardisation
   * Wavelet Transform
   * ZCA Whitening
+  
   Performance was evaluated using 10-fold cross-validation, confusion matrices, and accuracy metrics. CNN achieved ~48% accuracy, significantly outperforming others.
 
 ### Tools & Technologies
