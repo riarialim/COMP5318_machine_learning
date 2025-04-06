@@ -48,3 +48,6 @@ Key topics include classification, feature engineering, ensemble methods, dimens
 * Python, Scikit-learn, TensorFlow/Keras, NumPy, PyWavelets
 * Techniques: Data preprocessing, Random Forest, CNN, Gaussian Naive Bayes
 * Dataset: [CIFAR-100](https://www.cs.toronto.edu/~kriz/cifar.html)
+
+## License
+This content is shared for educational and portfolio purposes only. Please do not reuse without appropriate citation.
